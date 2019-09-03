@@ -24,10 +24,6 @@ this surface kernel is patched with https://github.com/kitakar5525/ipts-fix-cras
 4. Reboot on installed kernel.
 
 
-
-
-
-
 ### creddits
 
 - kitakar5525
